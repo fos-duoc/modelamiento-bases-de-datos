@@ -4,7 +4,7 @@
 - **Institución:** DuocUC
 - **Carrera:** Analista Programador Computacional
 - **Modalidad:** FOL Online
-- **Estudiante:** Fuad Oñate
+- **Estudiante:** Fuad Onate
 
 ## 🎯 Competencias
 - Diseño de modelos conceptuales (MER)
